@@ -1,0 +1,8 @@
+{
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "explorer.confirmDelete": false
+}
+
+// YOU MIGHT NOT NEED THIS
