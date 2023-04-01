@@ -1,0 +1,30 @@
+body {
+	background-color: #F2EFEA;
+	text-align: center;
+	font-family: Arial, sans-serif;
+}
+
+h1 {
+	margin-top: 50px;
+}
+
+button {
+	background-color: #FFB347;
+	color: #FFF;
+	font-size: 24px;
+	padding: 10px 20px;
+	border-radius: 10px;
+	border: none;
+	box-shadow: 2px 2px 5px #C7C7C7;
+	cursor: pointer;
+}
+
+button:hover {
+	background-color: #FFC872;
+}
+
+#score {
+	font-size: 36px;
+	font-weight: bold;
+	margin-top: 50px;
+}
